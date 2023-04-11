@@ -2,7 +2,7 @@
 使用CocoaPods安装腾讯开放平台-QQ互联 SDK，登录、分享、设置QQ头像等功能的集成:
 
 ```markdown
-pod 'TencentOpen', :git => 'https://github.com/Jdb156158/TencentOpenAPI.git'
+pod 'TencentOpen', :git => 'https://github.com/huasali/TencentOpenAPI.git'
 ```
 
 ```markdown
